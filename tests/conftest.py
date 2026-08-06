@@ -1,6 +1,6 @@
 """
-    This file configures pytest, initializes Databricks Connect,
-    and provides fixtures for Spark and loading test data.
+This file configures pytest, initializes Databricks Connect,
+and provides fixtures for Spark and loading test data.
 """
 
 import os
